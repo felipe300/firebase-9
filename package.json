@@ -1,0 +1,20 @@
+{
+  "name": "firebase-app-9",
+  "version": "1.0.0",
+  "description": "basic firebase 9 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "keywords": [
+    "firebase",
+    "9"
+  ],
+  "author": "felipe gutierrez",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "5.64.2",
+    "webpack-cli": "4.9.1"
+  }
+}
